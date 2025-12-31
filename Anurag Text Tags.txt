@@ -1,0 +1,10 @@
+Python and its Libraries
+MySQL 
+PostgreSQL
+Couchbase Capella
+Snowflake
+AWS Services like Lambda function, Glue job, Glue crawler, Athena, S3 bucket
+Docker
+Apache Airflow
+Power BI
+Studying Azure services
