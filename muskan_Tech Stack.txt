@@ -1,0 +1,81 @@
+ Tech Stack
+
+Programming Language-Python
+
+NumPy – numerical computations
+
+Pandas – data manipulation & analysis
+
+Matplotlib, Seaborn – data visualization
+
+SpaCy – basic NLP processing
+
+Boto3 – SDK for Python
+
+Streamlit, Gradio – interactive data & ML apps
+
+
+Databases & Data Warehousing
+
+SQL-MySQL
+
+NoSQL-Couchbase
+
+Cloud Data Warehouse-Snowflake
+
+
+
+Data Engineering & Orchestration
+
+Apache Airflow
+
+DAG creation
+
+Python Operator
+
+
+
+ETL / ELT Pipelines
+
+Data ingestion, transformation, and scheduling
+
+
+
+Cloud Platforms -AWS
+
+S3 (Data storage)
+
+AWS Glue (Jobs & Crawlers)
+
+AWS Athena (Querying S3 data)
+
+AWS Lambda (Serverless functions)
+
+Apache Superset (Data visualization & dashboards)
+
+
+Azure
+
+Azure Data Factory (ADF)
+
+CI/CD Pipelines (basic implementation)
+
+
+
+Containerization & DevOps
+
+Docker-Containerizing applications and data pipelines
+
+
+
+Data Visualization & Reporting
+
+Power BI
+
+MS Excel (Advanced functions, data analysis)
+
+
+
+Machine Learning (Basic Knowledge)
+
+
