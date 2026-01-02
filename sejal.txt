@@ -1,0 +1,12 @@
+Python, 
+SQL, 
+power BI, 
+Excel, 
+AWS services like s3 bucket,
+lambda function,
+event notification,
+glue, 
+Athena, 
+Azure services like ADF, 
+Docker, 
+Airflow and couchbase
