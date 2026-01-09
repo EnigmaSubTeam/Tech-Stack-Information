@@ -6,6 +6,7 @@ Snowflake
 Docker
 Apache Airflow- Dag and different operators- SQL Operator, Python Operator, Empty Operator
 AWS services- S3 buckets, Glue job, Glue crawler, Athena, Lambda, Superset
-Azure services- ADF, CI/CD pipelines, Azure Devops
+Azure services- ADF, CI/CD pipelines, Azure Devops, Azure Databricks, Azure Synapse
 PowerBi
-
+SSIS, SSMS
+Kafka
