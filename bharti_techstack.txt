@@ -1,0 +1,12 @@
+My tech stack includes:
+Python and it's libraries i.e. NumPy, pandas, seaborn, matplotlib, spacy, sqlalchemy, boto3, 
+SQL- MySQL, Postgres
+Couchbase
+Snowflake
+Docker
+Apache Airflow- Dag and different operators- SQL Operator, Python Operator, Empty Operator
+AWS services- S3 buckets, Glue job, Glue crawler, Athena, Lambda, Superset
+Azure services- ADF, CI/CD pipelines, Azure Devops, Azure Databricks, Azure Synapse
+PowerBi
+SSIS, SSMS
+Kafka
