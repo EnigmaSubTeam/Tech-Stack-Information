@@ -1,5 +1,5 @@
 My tech stack includes:
-Python and it's libraries i.e. NumPy, pandas, seaborn, matplotlib, spacy, sqlalchemy, boto3, 
+Python and it's libraries i.e. NumPy, pandas, seaborn, matplotlib, spacy, sqlalchemy, boto3, Streamlit, Django
 SQL- MySQL, Postgres
 Couchbase
 Snowflake
@@ -9,4 +9,10 @@ AWS services- S3 buckets, Glue job, Glue crawler, Athena, Lambda, Superset
 Azure services- ADF, CI/CD pipelines, Azure Devops, Azure Databricks, Azure Synapse
 PowerBi
 SSIS, SSMS
-Kafka
+Kafka - producer, consumer and broker
+Gen AI
+LLM - finetuning(RAG, LORA, QLORA)
+Langchain
+CRUD operations in Django 
+JWT authentication
+POSTMAN - API testing
