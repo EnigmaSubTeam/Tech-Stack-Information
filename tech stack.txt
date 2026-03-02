@@ -1,0 +1,6 @@
+Python, SQL
+Snowflake
+Databricks
+AWS Services- AWS Glue, AWS Lambda, AWS Athena, S3
+SSMS/SSIS
+
