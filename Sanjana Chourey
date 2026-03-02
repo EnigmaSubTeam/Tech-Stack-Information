@@ -1,0 +1,14 @@
+-Programming Language: Python
+-Cloud Services:
+    1. AWS - S3,GLue,Athena,Lambda function,Event notification.
+    2. Azure - ADF , Synapse,SCD1,SCD2 , Event Hub, ADLS Gen1,Gen2,Azure SQL Database
+-Snowflake,Databricks,DBT
+-Apache Airflow,Apache Kafka
+-SQL
+-Mysql,PostgreSQL
+-Git Actions (CI/CD)
+- BI tools: PowerBI,Superset,Tableau
+- GCP
+-Informatica
+-SSIS/SSMS
+-Microsoft Fabric
