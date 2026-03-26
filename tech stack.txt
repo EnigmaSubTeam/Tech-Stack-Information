@@ -1,7 +1,8 @@
 Python, SQL
 Snowflake
 Databricks
-AWS Services- AWS Glue, AWS Lambda, AWS Athena, S3
+AWS Services- AWS Glue, AWS Lambda, AWS Athena
 SSMS/SSIS
 Microsoft Fabric
-
+Apache Airflow, Kafka
+Azure SQL Database
