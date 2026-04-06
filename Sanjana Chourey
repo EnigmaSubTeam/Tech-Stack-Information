@@ -13,3 +13,5 @@
 -SSIS/SSMS
 -Microsoft Fabric
 -Data modelling (ERwin)
+-Docker
+-pytest
