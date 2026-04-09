@@ -2,8 +2,9 @@
 -Cloud Services:
     1. AWS - S3,GLue,Athena,Lambda function,Event notification.
     2. Azure - ADF , Synapse,SCD1,SCD2 , Event Hub, ADLS Gen1,Gen2,Azure SQL Database
+-Orchestration tools:Airflow,Dagster
 -Snowflake,Databricks,DBT
--Apache Airflow,Apache Kafka
+-Apache Kafka
 -SQL
 -Mysql,PostgreSQL
 -Git Actions (CI/CD)
@@ -14,4 +15,6 @@
 -Microsoft Fabric
 -Data modelling (ERwin)
 -Docker
+-Iceberg(Data GOvernance)
 -pytest
+-Marklogic
